@@ -1,2 +1,5 @@
 # learning
-1st Learning repository
+
+Hello All,
+
+This is my attempt to learn more programming skills.
